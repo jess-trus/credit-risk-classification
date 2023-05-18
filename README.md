@@ -7,13 +7,11 @@
 
 * The purpose of this analysis was to use existing credit risk information to create a model that would predict credit risk for potential loan applicants.
 * The data provided financial information about each borrower. The Y value was set at "loan status" which had a value of either 0 or 1. The X values were loan size	, interest rate, 	borrower income,	debt to income ratio, 	number of accounts,	derogatory marks and	total debt.
-* Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
-* Describe the stages of the machine learning process you went through as part of this analysis.
-* Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
+
 
 ## Results
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
+
 
 * Machine Learning Model 1:
 ![image 1](Images/log_ba.png)
